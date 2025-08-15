@@ -12,7 +12,7 @@ public class Aluno {
     System.out.println("Nota da AV2: " + notaAv2);
     if (notaFinal > 0){
         System.out.println("Nota final: " + notaFinal);
-     }
+    }
  }
 
  double calcularMedia(){
@@ -45,4 +45,5 @@ public class Aluno {
     }
  }
  }
+
 
